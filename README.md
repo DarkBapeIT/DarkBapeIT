@@ -1,16 +1,100 @@
-## Hi there 👋
+# 👋 Привет, я Python-разработчик
 
-<!--
-**DarkBapeIT/DarkBapeIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🐍 Python Developer | 🤖 Telegram Bot Developer | ⚙️ Автоматизация бизнеса
 
-Here are some ideas to get you started:
+Я создаю Telegram-ботов и Python-решения, которые помогают бизнесу автоматизировать процессы, получать клиентов и экономить время.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Чем я занимаюсь
+
+Я разрабатываю:
+
+- 🤖 Telegram-ботов для бизнеса
+- 📩 Ботов для заявок и лидогенерации
+- 🛒 Ботов-магазинов (каталог, заказы, корзина)
+- 🔔 Ботов-уведомлений и напоминаний
+- ⚙️ Python-скрипты для автоматизации задач
+- 🔌 Интеграции с API (сайты, CRM, AI)
+
+---
+
+## 🧠 Мой подход
+
+Я не просто пишу код — я решаю бизнес-задачи:
+
+✔ Увеличение заявок  
+✔ Автоматизация клиентов  
+✔ Снижение ручной работы  
+✔ Повышение эффективности бизнеса  
+
+---
+
+## 🛠 Технологии
+
+**Языки:**
+- Python 🐍
+
+**Фреймворки:**
+- aiogram
+- FastAPI
+- Flask
+
+**Базы данных:**
+- PostgreSQL
+- SQLite
+- Redis
+
+**Инструменты:**
+- Telegram Bot API
+- OpenAI API
+- Docker
+- Git / GitHub
+- Web scraping (BeautifulSoup, Selenium)
+
+---
+
+## 🚀 Примеры проектов
+
+### 🤖 Бот для заявок
+Собирает заявки клиентов и отправляет их в базу данных + уведомления администратору.
+
+### 🛒 Бот-магазин
+Полноценный магазин в Telegram: товары, корзина, оформление заказов.
+
+### 🔔 Бот-напоминалка
+Система напоминаний с расписанием и повторяющимися задачами.
+
+### ⚙️ Python-автоматизация
+Скрипты для автоматизации рутинных процессов бизнеса.
+
+---
+
+## 📈 Почему я
+
+- 🔥 Быстрая разработка MVP (1–3 дней)
+- ⚙️ Чистый и поддерживаемый код
+- 🤝 Ориентация на бизнес-результат
+- 📦 Полная настройка и запуск проектов
+
+---
+
+## 🎯 Цель
+
+Создавать автоматизацию, которая приносит бизнесу реальную пользу и увеличивает прибыль.
+
+---
+
+## 📫 Связаться со мной
+
+- Telegram: https://t.me/DarkBapee
+- Email: stalcraft3132<img width="862" height="670" alt="Снимок экрана 2026-06-15 010357" src="https://github.com/user-attachments/assets/d2ad17fc-4752-43ed-92f9-61cde49a41c5" />
+<img width="862" height="670" alt="image" src="https://github.com/user-attachments/assets/e1099d97-1444-425e-88e6-b9593aa588e8" />
+<img width="862" height="670" alt="image" src="https://github.com/user-attachments/assets/b3cc2d7a-e191-4f66-8287-6a2d83b0f4b4" />
+@gmail.com  
+
+---
+
+## 🚀 Открыт к заказам
+
+Если вам нужен Telegram-бот или Python-автоматизация — напишите мне, и я предложу решение под ваш бизнес.
