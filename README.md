@@ -1,146 +1,217 @@
-# 👋 Привет, я Python Developer
+# 👋 Hi, I'm Mark
 
-## 🚀 О себе
+### Python Backend Developer
 
-Python-разработчик, специализирующийся на создании Telegram-ботов, backend-сервисов и автоматизации бизнес-процессов.
+Разрабатываю:
 
-Работаю с Python-экосистемой: от написания Telegram-ботов и API до разработки полноценных backend-приложений с базами данных и контейнеризацией.
-
-Стараюсь писать чистый, поддерживаемый код и создавать решения, которые приносят реальную пользу пользователям и бизнесу.
+🌐 Веб-приложения  
+🤖 Telegram Bot'ов  
+🚀 Telegram Mini Apps  
+📱 Desktop приложения  
+⚡ API и автоматизацию бизнес-процессов
 
 ---
 
-## 💻 Технологии
+## 🚀 About Me
+
+Python-разработчик, специализирующийся на создании современных веб-сервисов, Telegram-решений и автоматизации.
+
+Использую современные инструменты разработки и придерживаюсь принципов чистого кода, масштабируемой архитектуры и безопасности.
+
+---
+
+## 🛠 Tech Stack
 
 ### Backend
 
-* Python
-* FastAPI
-* Flask
-* Aiogram
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Базы данных
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-* PostgreSQL
-* SQLite
-* Redis
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### DevOps & Tools
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-* Docker
-* Git / GitHub
-* Linux
-* REST API
+### Telegram
 
-### Интеграции
+![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge)
 
-* Telegram Bot API
-* OpenAI API
-* CRM API
-* Платежные системы
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram)
 
-### Парсинг и автоматизация
+![Telegram Mini Apps](https://img.shields.io/badge/Telegram_Mini_Apps-26A5E4?style=for-the-badge&logo=telegram)
 
-* BeautifulSoup
-* Selenium
-* Requests
-* Asyncio
+### Databases
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 
-## 📌 Основные направления
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 
-### 🤖 Telegram Bots
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 
-Разработка Telegram-ботов любой сложности:
+### Frontend
 
-* Лидогенерация
-* Интернет-магазины
-* CRM-интеграции
-* Уведомления и рассылки
-* Системы заявок
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
 
-### ⚙️ Backend Development
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-Создание серверной части приложений:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-* REST API
-* Авторизация пользователей
-* Работа с БД
-* Интеграция внешних сервисов
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 🔄 Automation
+### DevOps
 
-Автоматизация рутинных процессов:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
-* Обработка данных
-* Парсинг сайтов
-* Автоматизация отчетности
-* Интеграция сервисов
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
 ---
 
-## 📂 Проекты
+# 📂 Featured Projects
 
-### 🛒 Telegram Shop Bot
+## 🌐 Web Applications
 
-Функционал:
+### CRM System
 
-* Каталог товаров
-* Корзина
-* Оформление заказов
-* Административная панель
+Современная CRM для управления клиентами и заказами.
 
-**Stack:** Aiogram, PostgreSQL, Redis
+**Стек:**
+- FastAPI
+- PostgreSQL
+- JWT Auth
+- Docker
 
----
-
-### 📩 Lead Generation Bot
-
-Функционал:
-
-* Сбор заявок
-* Валидация данных
-* Уведомления менеджеров
-* Хранение информации в БД
-
-**Stack:** Aiogram, PostgreSQL
+🔗 Repository: Coming Soon
 
 ---
 
-### 🔔 Reminder Bot
+### Online Store
 
-Функционал:
+Интернет-магазин с корзиной и оплатой.
 
-* Напоминания по расписанию
-* Повторяющиеся задачи
-* Персональные уведомления
+**Стек:**
+- Django
+- PostgreSQL
+- Redis
+- Celery
 
-**Stack:** Python, Aiogram, APScheduler
-
----
-
-### ⚡ Business Automation Scripts
-
-Набор инструментов для автоматизации:
-
-* Обработка Excel-файлов
-* Парсинг данных
-* Работа с API
-* Генерация отчетов
-
-**Stack:** Python, Pandas, Requests
+🔗 Repository: Coming Soon
 
 ---
 
-## 📫 Контакты
+## 🤖 Telegram Bots
 
-Telegram: @DarkBapee
+### AI Assistant Bot
 
-Email: [stalcraft3132@gmail.com](mailto:stalcraft3132@gmail.com)
+Telegram-бот с поддержкой искусственного интеллекта.
+
+Возможности:
+
+- ответы на вопросы
+- генерация текста
+- работа с файлами
+- история диалогов
+
+**Стек:**
+- Python
+- Aiogram 3
+- PostgreSQL
+
+🔗 Repository: Coming Soon
 
 ---
 
-## 🎯 Цель
+### Booking Bot
 
-Развиваться как Backend/Python Developer, создавать надежные сервисы, автоматизировать процессы и участвовать в интересных проектах.
+Бот для записи клиентов.
+
+Функции:
+
+- онлайн запись
+- уведомления
+- календарь
+- админ-панель
+
+🔗 Repository: Coming Soon
+
+---
+
+## 🚀 Telegram Mini Apps
+
+### Task Manager
+
+Мини-приложение для управления задачами внутри Telegram.
+
+Функции:
+
+- авторизация Telegram
+- канбан-доска
+- аналитика
+- уведомления
+
+**Стек:**
+- React
+- FastAPI
+- PostgreSQL
+
+🔗 Repository: Coming Soon
+
+---
+
+### Marketplace Mini App
+
+Магазин внутри Telegram.
+
+Функции:
+
+- каталог товаров
+- корзина
+- оформление заказа
+- платежи
+
+🔗 Repository: Coming Soon
+
+---
+
+## 📱 Desktop Applications
+
+### Client Manager
+
+Система управления клиентской базой.
+
+**Стек:**
+- Python
+- PyQt6
+- SQLite
+
+🔗 Repository: Coming Soon
+
+---
+
+## 📈 GitHub Statistics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=DarkBapeIT&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkBapeIT&layout=compact)
+
+---
+
+## 🎯 Current Goals
+
+- Изучение микросервисной архитектуры
+- Разработка Telegram Mini Apps
+- Улучшение навыков DevOps
+- Создание SaaS проектов
+
+---
+
+## 📬 Contact Me
+
+Telegram: @DarkBapeIT
+
+Email: stalcraft3132@gmail.com
+
+GitHub: https://github.com/DarkBapeIT
